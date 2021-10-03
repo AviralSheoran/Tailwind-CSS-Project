@@ -7,5 +7,5 @@
 }
 
 .badge {
-  @apply text-xs font-bold uppercase rounded-full bg-gray-200 p-2 absolute top-0 ml-2 mt-2;
+  @apply text-xs font-semibold uppercase rounded-full bg-gray-200 p-2 absolute top-0 ml-2 mt-2;
 }
